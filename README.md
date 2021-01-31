@@ -4,7 +4,7 @@ There will eventually be a suggested order of completion, but at this time since
 
 1. Hello World 
 1. Repeat String
-1. Reverse String
+1. Reverse String   
 
 ## HOW TO USE THESE EXERCISES
 Before you start you should have a few things installed on your machine:
