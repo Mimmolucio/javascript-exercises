@@ -2,7 +2,7 @@ These are a series of javascript exercises intended to be used alongside the cur
 
 There will eventually be a suggested order of completion, but at this time since we are still in the process of creating more exercises the order is subject to change and has not yet been specified. However, there are a few exercises which make a good "starting point". Feel free to at least start with these:
 
-1. Hello World
+1. Hello World 
 1. Repeat String
 1. Reverse String
 
